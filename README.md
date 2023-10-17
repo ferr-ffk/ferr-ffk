@@ -29,6 +29,17 @@ Oie! Me chamo Fernando Freitas e estou atualmente cursando o ensimo médio técn
 
 ---
 
+## Projetos
+
+* Costs: Gerenciamento de Projetos com adição de custos e dependências;
+    * **React com base em TypeScript**
+* Calculadora-Java-Swing: Aplicação de calculadora simples;
+    * **Java e java-swing**
+* Joquempo-online: Uma página que simula um oponente de joquempô com capacidade de pontuação;
+    * **HTML, CSS e Javascript**
+* Youtube-Recriacao: Recriação do HTML e CSS da página principal do youtube, em modo escuro;
+    * **HTML, CSS e Javascript**
+
 ### :fire: Status
 
 [![Ferr-ffk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferr-ffk&show_icons=true)](https://github.com/ferr-ffk/github-readme-stats)
