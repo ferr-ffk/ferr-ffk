@@ -1,6 +1,6 @@
 # 🤙 Bem vindo!
 
-Oie! Me chamo Fernando Freitas e estou atualmente cursando o ensimo médio técnico pelo Instituto Federal de São Paulo. Meu curso é o de informática e computação e tenho previsão de conclusão em 2025. Meus repositório se resumem em projetos pessoais como o de gerencimento de projetos (feito em React) e um jogo de campo minado (feito em Java).
+Oie! Me chamo Fernando Freitas e estou atualmente cursando o ensino médio técnico pelo Instituto Federal de São Paulo. Meu curso é o de informática e computação e tenho previsão de conclusão em 2025. Meus repositório se resumem em projetos pessoais como o de gerencimento de projetos (feito em React) e um jogo de campo minado (feito em Java).
 
 ---
 
