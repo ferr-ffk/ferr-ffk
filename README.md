@@ -43,3 +43,7 @@ Oie! Me chamo Fernando Freitas e estou atualmente cursando o ensino médio técn
 ### :fire: Status
 
 [![Ferr-ffk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferr-ffk&show_icons=true)](https://github.com/ferr-ffk/github-readme-stats)
+
+### Música
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22rub2jwf4fiojps63yxfwfcq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=22rub2jwf4fiojps63yxfwfcq&redirect=true)
