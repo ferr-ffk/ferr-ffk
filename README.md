@@ -39,6 +39,10 @@ Oie! Me chamo Fernando Freitas e estou atualmente cursando o ensino médio técn
     * **HTML, CSS e Javascript**
 * Youtube-Recriacao: Recriação do HTML e CSS da página principal do youtube, em modo escuro;
     * **HTML, CSS e Javascript**
+* Projeto-Integrador-2023: Projeto realizado na disciplina de PJI, fórum de dúvidas para mecânicos;
+     * **React e TypeScript**
+* Bolsa-Valores-Java: Simulação de um pregão com classes representando investidores, corretoras e empresas;
+     * **Java**;
 
 ### :fire: Status
 
