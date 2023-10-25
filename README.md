@@ -6,7 +6,7 @@ Oie! Me chamo Fernando Freitas e estou atualmente cursando o ensino médio técn
 
 Um dos meus passatempos é a música! Prefiro ouvir rap e pop nacional, mas ultimamente tenho escutado avantgarde como Björk!
 
-### 💿 Meu top 10 de álbuns na última semana
+### 💿 Meu top 10 álbuns na última semana
 <!-- lastfm -->
 <p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a7e2017a564c529dbe56fac24510bae8.jpg" title="Marina Sena - Vício Inerente"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/0a8521c16d07751d4ea03546825a4dea.jpg" title="Troye Sivan - Something to Give Each Other"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/25e6db4fea66bd4150c80b5b7c19d404.jpg" title="Hailu Mergia - Wede Harer Guzo"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/c6b4122bb1dd46eea23e64e7317ee2bf.png" title="Björk - Homogenic"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/419df54a579284b15766a7857cca5494.jpg" title="Luísa Sonza - Escândalo Íntimo"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/90319118a59649a0c95caa0fcbd97588.jpg" title="ADMAS - Sons of Ethiopia"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/be0d73355d520e5bb627d846a0461bbd.jpg" title="Beyoncé - RENAISSANCE"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/7098faeeba40a168cea952f95204a89a.jpg" title="Björk - Debut"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/3ef2b4e3f6399166bee68b27f875a5cb.jpg" title="Björk - Post"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/d669b9846b8561e0cb966f895d213adf.png" title="Hyldon - Na Rua, Na Chuva, Na Fazenda"> </p>
 
