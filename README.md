@@ -2,12 +2,24 @@
 
 Oie! Me chamo Fernando Freitas e estou atualmente cursando o ensino médio técnico pelo Instituto Federal de São Paulo. Meu curso é o de informática e computação e tenho previsão de conclusão em 2025. Meus repositório se resumem em projetos pessoais como o de gerencimento de projetos (feito em React) e um jogo de campo minado (feito em Java).
 
----
+## 🎶 Música
+
+Um dos meus passatempos é a música! Prefiro ouvir rap e pop nacional, mas ultimamente tenho escutado avantgarde como Björk!
+
+### 💿 Meu top 10 de álbuns na última semana
 
 <!-- lastfm -->
 
 
-### 🏃 Habilidades
+### 🎶 O que eu estou ouvindo agora
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22rub2jwf4fiojps63yxfwfcq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=22rub2jwf4fiojps63yxfwfcq&redirect=true)
+
+</div>
+
+## 🏃 Habilidades
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
@@ -31,14 +43,6 @@ Oie! Me chamo Fernando Freitas e estou atualmente cursando o ensino médio técn
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ---
-
-## 🎶 O que eu estou ouvindo agora
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22rub2jwf4fiojps63yxfwfcq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=22rub2jwf4fiojps63yxfwfcq&redirect=true)
-
-</div>
 
 ## Projetos
 
