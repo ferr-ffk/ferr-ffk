@@ -7,7 +7,6 @@ Oie! Me chamo Fernando Freitas e estou atualmente cursando o ensino médio técn
 <!-- lastfm -->
 
 
-
 ### 🏃 Habilidades
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=for-the-badge)
@@ -33,7 +32,7 @@ Oie! Me chamo Fernando Freitas e estou atualmente cursando o ensino médio técn
 
 ---
 
-## Música
+## 🎶 O que eu estou ouvindo agora
 
 <div align="center">
 
