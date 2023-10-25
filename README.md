@@ -19,6 +19,14 @@ Um dos meus passatempos é a música! Prefiro ouvir rap e pop nacional, mas ulti
 
 </div>
 
+### 🎧 Últimas músicas escutadas
+
+<div align="center">
+   
+[![Últimas músicas escutadas](https://lastfm-recently-played.vercel.app/api?user=glass_nx&width=500&header_size=none&loved=true&loved_style=3)](last.fm/user/glass_nx)
+
+</div>
+
 ## 🏃 Habilidades
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=for-the-badge)
