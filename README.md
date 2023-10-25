@@ -69,8 +69,4 @@ Um dos meus passatempos é a música! Prefiro ouvir rap e pop nacional, mas ulti
 
 </div>
 
-<div align="center">
-   
 ![Snake animation](https://github.com/ferr-ffk/ferr-ffk/blob/output/github-contribution-grid-snake.svg)
-
-</div>
