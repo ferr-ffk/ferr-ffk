@@ -54,21 +54,6 @@ Um dos meus passatempos é a música! Prefiro ouvir rap e pop nacional, mas ulti
 
 ---
 
-## Projetos
-
-* [costs-curso-react](https://github.com/ferr-ffk/costs-curso-react): Gerenciamento de Projetos com adição de custos e dependências;
-    * **React com base em TypeScript**
-* [Calculadora-Java-Swing](https://github.com/ferr-ffk/Calculadora-Java-Swing): Aplicação de calculadora simples;
-    * **Java e java-swing**
-* [Joquempo-online](https://github.com/ferr-ffk/Joquempo-online): Uma página que simula um oponente de joquempô com capacidade de pontuação;
-    * **HTML, CSS e Javascript**
-* [Projeto-Integrador-2023](https://github.com/ferr-ffk/Projeto-Integrador-2023): Projeto realizado na disciplina de PJI, fórum de dúvidas para mecânicos;
-     * **React e TypeScript**
-* [Bolsa-Valores-em-Java](https://github.com/ferr-ffk/Bolsa-Valores-em-Java): Simulação de um pregão com classes representando investidores, corretoras e empresas;
-     * **Java**;
-* [gerenciador-tarefas-escolares](https://github.com/ferr-ffk/gerenciador-tarefas-escolares): Aplicativo JavaFX para criação e monitoramento de tarefas personalizadas e armazenadas em um banco de dados;
-     * **JavaFX e Maven**
-
 ### :fire: Status
 
 <div align="center">
@@ -78,5 +63,3 @@ Um dos meus passatempos é a música! Prefiro ouvir rap e pop nacional, mas ulti
 ![Ferr-ffk's most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=ferr-ffk)
 
 </div>
-
-![Snake animation](https://github.com/ferr-ffk/ferr-ffk/blob/output/github-contribution-grid-snake.svg)
