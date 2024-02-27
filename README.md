@@ -54,11 +54,11 @@ Um dos meus passatempos é a música! Prefiro ouvir rap e pop nacional, mas ulti
 ---
 
 ### :fire: Status
-
-<div align="center">
    
-[![Ferr-ffk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferr-ffk&show_icons=true)](https://github.com/ferr-ffk/github-readme-stats)
+<a href="https://github-readme-stats.vercel.app/api?username=ferr-ffk&show_icons=true">
+   <img src="https://github-readme-stats.vercel.app/api?username=ferr-ffk&show_icons=true" />
+</a>
 
-![Ferr-ffk's most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=ferr-ffk)
-
-</div>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ferr-ffk">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferr-ffk"/>
+</a>
