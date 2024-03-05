@@ -36,7 +36,7 @@ Um dos meus passatempos é a música! Prefiro ouvir rap e pop nacional, mas ulti
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
-#### 🧰 Frameworks e bibliotecas
+### 🧰 Frameworks e bibliotecas
 
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -46,7 +46,7 @@ Um dos meus passatempos é a música! Prefiro ouvir rap e pop nacional, mas ulti
 
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
-#### 🥇 Outros
+### 🥇 Outros
 
 ![Postman](https://img.shields.io/badge/Postman-F6BB43?style=flat-square&logo=Postman&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
