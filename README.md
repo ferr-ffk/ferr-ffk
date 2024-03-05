@@ -62,3 +62,5 @@ Um dos meus passatempos é a música! Prefiro ouvir rap e pop nacional, mas ulti
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ferr-ffk">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferr-ffk"/>
 </a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ferr-ffk&locale=pt_BR)](https://git.io/streak-stats)
