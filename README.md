@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F70F&background=E400FF00&random=false&width=435&lines=Bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+# [![Bem vindo ao meu perfil!](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F70F&background=E400FF00&random=false&width=435&lines=Bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 ###### Oie! Me chamo Fernando Freitas e estou atualmente cursando o ensino médio técnico pelo Instituto Federal de São Paulo. Meu curso é o de informática e computação e tenho previsão de conclusão em 2025. Meus repositório se resumem em projetos pessoais como o de gerencimento de projetos (feito em React) e um jogo de campo minado (feito em Java).
 
