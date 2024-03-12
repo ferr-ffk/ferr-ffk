@@ -56,12 +56,10 @@ Um dos meus passatempos é a música! Prefiro ouvir rap e pop nacional, mas ulti
 
 ### :fire: Status
    
-<a href="https://github-readme-stats.vercel.app/api?username=ferr-ffk&show_icons=true">
-   <img src="https://github-readme-stats.vercel.app/api?username=ferr-ffk&show_icons=true" />
-</a>
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ferr-ffk">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferr-ffk"/>
-</a>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ferr-ffk&locale=pt_BR)](https://git.io/streak-stats)
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferr-ffk&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ferr-ffk&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ferr-ffk&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ferr-ffk&theme=merko&locale=pt_BR" alt="GitHub Streak" /></a>
+</div>
