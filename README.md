@@ -6,9 +6,7 @@
 
 Um dos meus passatempos é a música! Prefiro ouvir rap e pop nacional, mas ultimamente tenho escutado avantgarde como Björk!
 
-### 💿 Meu top 10 álbuns na última semana
 <!-- lastfm -->
-
 
 ### 🎶 O que eu estou ouvindo agora
 
