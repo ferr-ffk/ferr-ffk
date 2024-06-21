@@ -20,7 +20,7 @@ Um dos meus passatempos é a música! Prefiro ouvir rap e pop nacional, mas ulti
 
 <div align="center">
    
-[![Últimas músicas escutadas](https://lastfm-recently-played.vercel.app/api?user=glass_nx&width=500&header_size=none&loved=true&loved_style=3)](last.fm/user/glass_nx)
+[![Últimas músicas escutadas](https://lastfm-recently-played.vercel.app/api?user=glass_nx&width=500&loved_style=3&loved=true&show_user=header&footer_style=compact_stats)](last.fm/user/glass_nx)
 
 </div>
 
