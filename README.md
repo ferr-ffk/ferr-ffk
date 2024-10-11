@@ -4,7 +4,7 @@
 
 ## 🎶 Música
 
-Um dos meus passatempos é a música! Prefiro ouvir rap e pop nacional, mas ultimamente tenho escutado avantgarde como Björk!
+Um dos meus passatempos é a música! Gosto muito de ouvir pop alternativo e edm. Ultimamente tenho tentado a produção musical como hobbie.
 
 <!-- lastfm -->
 
