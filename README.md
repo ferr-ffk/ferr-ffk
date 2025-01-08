@@ -1,20 +1,28 @@
 # [![Bem vindo ao meu perfil!](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F70F&background=E400FF00&random=false&width=435&lines=Bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
-###### Oie! Me chamo Fernando Freitas e estou atualmente cursando o ensino médio técnico pelo Instituto Federal de São Paulo. Meu curso é o de informática e computação e tenho previsão de conclusão em 2025. Meus repositório se resumem em projetos pessoais como o de gerencimento de projetos (feito em React) e um jogo de campo minado (feito em Java).
+###### Oie! Me chamo Fernando Freitas e estou atualmente cursando o ensino médio técnico pelo Instituto Federal de São Paulo. Meu curso é o de informática e computação e tenho previsão de conclusão em 2025. Atualmente estou trabalhando em um jogo 3D para Android feito em Unity 2022.
+
+## 🔭 Projetos
+
+1. [dunas-Unity3D](https://github.com/ferr-ffk/dunas-Unity3D): Jogo 3D para Android feito com Unity 2022, utilizando Unity 2022
+2. [cinemaps](https://github.com/ferr-ffk/cinemaps): Aplicação Web para pesquisa de cinemas e teatros, utilizando Flask
+3. [site-portfolio](https://github.com/ferr-ffk/site-portfolio): Site de portfólio feito em NextJS, utilizando Next.JS e Typescript
+4. [Patas-Amigas](https://github.com/SarahSLG/Patas-Amigas): Aplicação em terminal para gerenciamento de uma ong que abriga animais para adoção, utilizando Java
+5. [gerenciador-tarefas-escolares](https://github.com/ferr-ffk/gerenciador-tarefas-escolares): Projeto de JavaFX para criação e manejo de tarefas escolares, utilizando Java
+
 
 ## 🎶 Música
+
+<div align="center">
+
+![spotify-github-profile](https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/glass_nx/latest-song?format=shields.io)
+
+</div>
 
 Um dos meus passatempos é a música! Gosto muito de ouvir pop alternativo e edm. Ultimamente tenho tentado a produção musical como hobbie.
 
 <!-- lastfm -->
 
-### 🎶 O que eu estou ouvindo agora
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22rub2jwf4fiojps63yxfwfcq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=22rub2jwf4fiojps63yxfwfcq&redirect=true)
-
-</div>
 
 ### 🎧 Últimas músicas escutadas
 
@@ -62,5 +70,4 @@ Um dos meus passatempos é a música! Gosto muito de ouvir pop alternativo e edm
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferr-ffk&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ferr-ffk&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ferr-ffk&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ferr-ffk&theme=merko&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
