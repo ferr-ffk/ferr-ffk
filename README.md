@@ -26,7 +26,7 @@
 Um dos meus passatempos é a música! Gosto muito de ouvir pop alternativo e edm. Ultimamente tenho tentado a produção musical como hobbie.
 
 <!-- lastfm -->
-
+<p align="center"><a href="https://www.last.fm/music/Urias/HER+MIND"><img src="https://lastfm.freetls.fastly.net/i/u/64s/5f1a36bb3ffa2bd9df02e415d424f96e.jpg" title="Urias - HER MIND"></a> <a href="https://www.last.fm/music/Lorde/Melodrama"><img src="https://lastfm.freetls.fastly.net/i/u/64s/06483355fe8ff1b4eb335c7d9704d84c.jpg" title="Lorde - Melodrama"></a> <a href="https://www.last.fm/music/DUDA+BEAT/TARA+E+TAL"><img src="https://lastfm.freetls.fastly.net/i/u/64s/e0f393100022485b9c1225cd28a675af.jpg" title="DUDA BEAT - TARA E TAL"></a> <a href="https://www.last.fm/music/Bj%C3%B6rk/Debut"><img src="https://lastfm.freetls.fastly.net/i/u/64s/7098faeeba40a168cea952f95204a89a.jpg" title="Björk - Debut"></a> <a href="https://www.last.fm/music/Jorge+Ben/A+Tabua+De+Esmeralda"><img src="https://lastfm.freetls.fastly.net/i/u/64s/4a5697166535be029889a470b15f04e9.png" title="Jorge Ben - A Tabua De Esmeralda"></a> <a href="https://www.last.fm/music/Bj%C3%B6rk/Fossora"><img src="https://lastfm.freetls.fastly.net/i/u/64s/d8d29ca04e25fc4203534c55c75376fc.jpg" title="Björk - Fossora"></a> </p>
 
 ### 🎧 Últimas músicas escutadas
 
