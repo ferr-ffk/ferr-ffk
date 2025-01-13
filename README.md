@@ -1,4 +1,8 @@
+<div align="center">
+
 # [![Bem vindo ao meu perfil!](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F70F&background=E400FF00&random=false&width=435&lines=Bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+
+</div>
 
 ###### Oie! Me chamo Fernando Freitas e estou atualmente cursando o ensino médio técnico pelo Instituto Federal de São Paulo. Meu curso é o de informática e computação e tenho previsão de conclusão em 2025. Atualmente estou trabalhando em um jogo 3D para Android feito em Unity 2022.
 
@@ -20,7 +24,6 @@
 </div>
 
 Um dos meus passatempos é a música! Gosto muito de ouvir pop alternativo e edm. Ultimamente tenho tentado a produção musical como hobbie.
-
 <!-- lastfm -->
 
 
