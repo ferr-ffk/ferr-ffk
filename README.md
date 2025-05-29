@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Bem vindo ao meu perfil!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&weight=500&size=25&duration=1000&pause=5000&color=EAF707&width=435&lines=Bem+vinda(o)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 ---
 
