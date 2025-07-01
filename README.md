@@ -24,7 +24,7 @@ Oie! Eu me chamo Fernando Freitas e estou atualmente cursando o ensino médio t�
 Um dos meus passatempos é a música! Gosto muito de ouvir pop alternativo e edm. Ultimamente tenho tentado a produção musical como hobbie.
 
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Madonna/Ray+of+Light"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f8954eaed52fc4a524ea6f333aa2464d.png" title="Madonna - Ray of Light"></a> <a href="https://www.last.fm/music/Chico+Science+&+Na%C3%A7%C3%A3o+Zumbi/Da+Lama+ao+Caos"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f209b43811e37a90d93b92156624651f.png" title="Chico Science & Nação Zumbi - Da Lama ao Caos"></a> <a href="https://www.last.fm/music/PinkPantheress/Fancy+That"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1b93da0254fdeec7307cb3f1d1e16cee.png" title="PinkPantheress - Fancy That"></a> <a href="https://www.last.fm/music/Solange/A+Seat+at+the+Table"><img src="https://lastfm.freetls.fastly.net/i/u/64s/4875922ae794adc5f857fc6c44ca6e6a.png" title="Solange - A Seat at the Table"></a> </p>
+<p align="center"></p>
 
 ### 🎧 Últimas músicas escutadas
 
