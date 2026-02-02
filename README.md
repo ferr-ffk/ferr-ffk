@@ -24,7 +24,7 @@ Oie! Eu me chamo Fernando Freitas e estou atualmente cursando o ensino médio t�
 Um dos meus passatempos é a música! Gosto muito de ouvir pop alternativo e edm. Ultimamente tenho tentado a produção musical como hobbie.
 
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Grace+Jones/Living+My+Life"><img src="https://lastfm.freetls.fastly.net/i/u/64s/8ffdc84aa891559c3f4f7db5545ede90.png" title="Grace Jones - Living My Life"></a> </p>
+<p align="center"></p>
 
 ### 🎧 Últimas músicas escutadas
 
